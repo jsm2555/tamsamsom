@@ -20,7 +20,7 @@ var mysql = require('mysql');
 var conn = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : 'enejwnl12!',
+  password : 'mysql',
   database : 'hanguler',
   port: 3306  /* 8889 on Mac client */
 });
